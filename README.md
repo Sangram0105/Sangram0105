@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sangram Sankpal</h1>
-<h3 align="center">"Passionate Android Developer Delving into the World of DevOps to Elevate Software Development Efficiency"</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
