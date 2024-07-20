@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi 👋, I'm 
-    <a href="https://www.linkedin.com/in/sangramsankpal/" target="_blank" rel="noreferrer" style="text-decoration: underline; font-size: 24px;">
+    <a href="https://www.linkedin.com/in/sangram-sankpal-498720243/" target="_blank" rel="noreferrer" style="text-decoration: underline; font-size: 24px;">
         Sangram Sankpal
     </a>
 </h1>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sangram_7812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangram_7812" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sangram0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram0105" height="30" width="40" /></a>
+
 <a href="https://instagram.com/sangram__sankpal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangram__sankpal_" height="30" width="40" /></a>
 </p>
 
